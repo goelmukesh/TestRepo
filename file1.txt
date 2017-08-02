@@ -2,6 +2,3 @@ hello
 something else
 new line
 Atul
-<<<<<<< HEAD
-Nitin
-Mukesh
