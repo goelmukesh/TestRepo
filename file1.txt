@@ -3,4 +3,8 @@ something else
 new line
 Mukesh
 Ajay
+<<<<<<< HEAD
 XYZ
+=======
+ABC
+>>>>>>> 800f06766788dc171eb6158dae803e4199101fa9
